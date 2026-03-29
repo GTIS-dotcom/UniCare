@@ -12,10 +12,10 @@ To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
 - Wanted Skills
    
     i. Programming
-
-      - C/C++
-      - Python
-      - Java/C#
+  
+     - C/C++
+     - Python
+     - Java/C#
   
     ii. Electrical Basics,Microcontroller and Embedded Systems
   
