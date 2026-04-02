@@ -7,7 +7,7 @@
 
 # B. Future Plans in Tech
 
-To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
+To become a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
 
 - Wanted Skills
    
