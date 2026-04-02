@@ -22,7 +22,7 @@ To become a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
     iii. Data Structure + Algorithms + Object Oriented Programming(OOP).
 - My Long Term Goal: To become a Computer Engineer capable of delivering and improving the technology landscape of Zambia within the next decade.
 # C. Projects I have worked on
-personal Project
+personal Projects
   1. Parcel Tracking Receipt
 # D. Achievements and Updates 
    My Dev Journey Log
