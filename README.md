@@ -1,11 +1,11 @@
 # UniCare
-A. About Me
+# A. About Me
 - Full name: Gabriel Nkonde
 - School and Year of Study: School of ICT,Third Year at Copperbelt university 
 - Program:Bachelor of Science in Computer Engineering
 - Intro:Computer Engineering Student who wants to know how all componets of the Computer works,how well can they be developed and how well can they be improved.Ready to dive into the real world of Tech,GabTech the innovator at your service.
 
-B. Future Plans in Tech
+# B. Future Plans in Tech
 
 To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
 
@@ -20,4 +20,5 @@ To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
     ii. Electrical Basics,Microcontroller and Embedded Systems
   
     iii. Data Structure and Algorithms and Object Oriented Programming(OOP).
+  - My Goal: To be Computer Engineer who is able to deliver and improve the Tech of Zambia within the next decade.
 
