@@ -1,7 +1,7 @@
 # UniCare
 # A. About Me
 - Full name: Gabriel Nkonde
-- School and Year of Study: School of ICT,Third Year at Copperbelt university 
+- School and Year of Study: School of ICT,Third Year at The Copperbelt university 
 - Program:Bachelor of Science in Computer Engineering
 - Intro:Computer Engineering Student who wants to know how all componets of the Computer works,how well can they be developed and how well can they be improved.Ready to dive into the real world of Tech,GabTech the innovator at your service.
 
