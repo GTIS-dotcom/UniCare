@@ -20,7 +20,7 @@ To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
     ii. Electrical Basics,Microcontroller and Embedded Systems
   
     iii. Data Structure and Algorithms and Object Oriented Programming(OOP).
-  - My Goal:To be Computer Engineer who is able to deliver and improve the Tech of Zambia within the next decade.
+- My Goal: To be Computer Engineer who is able to deliver and improve the Tech of Zambia within the next decade.
 # C. Projects I have worked on
 personal Project
   1. Cargo Tracking Receipt
