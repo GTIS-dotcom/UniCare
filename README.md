@@ -17,7 +17,7 @@ To become a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
      - Python
      - Java/C#
   
-    ii. Electrical Basics,Microcontroller and Embedded Systems
+    ii. Electrical Basics + Microcontroller + Embedded Systems
   
     iii. Data Structure + Algorithms + Object Oriented Programming(OOP).
 - My Long Term Goal: To become a Computer Engineer capable of delivering and improving the technology landscape of Zambia within the next decade.
