@@ -25,6 +25,7 @@ To be a Full-Stack developer(Software) + Hardware/Embedded System Engineer.
 personal Project
   1. Cargo Tracking Receipt
 # D. Achievements and Updates 
-   My Developer Journey Log
+   My Dev Journey Log
+   
    .I will update this part of README everytime I achieve something new in Tech
 
