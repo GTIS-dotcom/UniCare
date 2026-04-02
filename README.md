@@ -26,6 +26,5 @@ personal Project
   1. Cargo Tracking Receipt
 # D. Achievements and Updates 
    My Dev Journey Log
-   
-   .I will update this part of README everytime I achieve something new in Tech
+   - I will update this part of README everytime I achieve something new in Tech
 
